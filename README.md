@@ -2,7 +2,7 @@
 
 ## How to Run
 
-python quicksort.py
+python quick_sort.py
 
 ## Summary
 
